@@ -2,7 +2,7 @@
   "name": "les-website",
   "version": "1.0.0",
   "description": "Website for Live Enhancement Suite",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "dev": "parcel *.html",
     "build": "parcel build *.html"
