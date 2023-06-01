@@ -2,21 +2,20 @@
   "name": "les-website",
   "version": "1.0.0",
   "description": "Website for Live Enhancement Suite",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel *.html",
     "build": "parcel build *.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LiveEnhancementSuite/LESwebsite.git"
+    "url": "git+https://github.com/Inversil/LESwebsite.git"
   },
   "author": "@sylrs @luciascarlet @inversil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LiveEnhancementSuite/LESwebsite/issues"
+    "url": "https://github.com/Inversil/LESwebsite/issues"
   },
-  "homepage": "https://github.com/LiveEnhancementSuite/LESwebsite#readme",
+  "homepage": "https://github.com/Inversil/LESwebsite/index.html",
   "dependencies": {
     "parcel": "^2.9.1"
   },
